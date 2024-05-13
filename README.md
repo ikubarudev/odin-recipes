@@ -1,0 +1,1 @@
+This is a project from The Odin Projects for my practise learning through the webdev journey
